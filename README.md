@@ -1,16 +1,7 @@
 # relationship_coaching_app
 
-A new Flutter project.
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+![screenshot_1](https://user-images.githubusercontent.com/26245770/52537648-c586a200-2d71-11e9-9f7d-566d1f742308.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
