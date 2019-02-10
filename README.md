@@ -1,6 +1,6 @@
 # relationship_coaching_app
 
-# UI screen credit -https://dribbble.com/shots/4486758-Relationship-Coaching-App/attachments/1017305
+ UI screen credit -https://dribbble.com/shots/4486758-Relationship-Coaching-App/attachments/1017305
 
 ## Screens
 
